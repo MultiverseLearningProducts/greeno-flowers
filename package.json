@@ -1,0 +1,29 @@
+{
+  "name": "greeno-flowers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start-dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MultiverseLearningProducts/greeno-flowers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MultiverseLearningProducts/greeno-flowers/issues"
+  },
+  "homepage": "https://github.com/MultiverseLearningProducts/greeno-flowers#readme",
+  "dependencies": {
+    "chalk": "5.0.1",
+    "express": "4.18.1",
+    "morgan": "1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.19"
+  }
+}
